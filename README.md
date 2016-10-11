@@ -4,8 +4,8 @@
 
 * 这是一个轻小说接力写作企划
 * 本企划遵循[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-项目组织者：[@TerrorJack](https://github.com/TerrorJack)
+* 欢迎提issue讨论
+* 不保证接受任意pull request。详情咨询项目组织者：[@TerrorJack](https://github.com/TerrorJack)
 
 ## 目录
 
