@@ -11,5 +11,16 @@
 ## 目录
 
 * [名词备忘录](noun_memo.md)
+
+### 主线故事：
+
+启动时间：世界线R，倒计时24h以内。
+
 * [Chapter 0](chapter_0.md) by [@TerrorJack](https://github.com/TerrorJack)
 * [Chapter 1](chapter_1.md) by [@tioover](https://github.com/tioover)
+
+### 支线故事：奥卡姆剃刀往事篇
+
+启动时间：世界线R，倒计时4年左右。
+
+* [Chapter 0](occam_razor_tale_0.md) by [@TerrorJack](https://github.com/TerrorJack)
