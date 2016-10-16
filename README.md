@@ -3,6 +3,7 @@
 ## 讨论组
 
 * 面向作者：[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/functor-fantasy/brainstorm-chamber)
+* 面向读者：[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/functor-fantasy/lobby)
 
 ## 目前可以公开的情报
 
