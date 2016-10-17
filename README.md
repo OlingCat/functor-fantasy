@@ -22,6 +22,7 @@
 
 * [Chapter 0](chapter_0.md) by [@TerrorJack](https://github.com/TerrorJack)
 * [Chapter 1](chapter_1.md) by [@tioover](https://github.com/tioover)
+* [Chapter 2](chapter_2.md) by [@MislankaNova](https://github.com/MislankaNova)
 
 ### 支线故事：奥卡姆剃刀往事篇
 
