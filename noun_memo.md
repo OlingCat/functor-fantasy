@@ -2,6 +2,10 @@
 
 ## 人物
 
+### [奥卡姆剃刀往事篇 0](occam_razor_tale_0.md)
+
+* 希帕提娅/Hypatia
+
 ### [Chapter 0](chapter_0.md)
 
 * M.K. /Marisa/莎莎
@@ -9,7 +13,6 @@
 ### [Chapter 1](chapter_1.md)
 
 * 栗子
-* 灯影
 * 雅戈
 * 孟德尔
 * 千代
@@ -34,6 +37,10 @@
 * ‘编辑部’
 
 ## 地名
+
+### [奥卡姆剃刀往事篇 0](occam_razor_tale_0.md)
+
+* 学城地铁13号线 - 立水庄站
 
 ### [Chapter 1](chapter_1.md)
 
