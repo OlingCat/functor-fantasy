@@ -9,6 +9,7 @@
 ### [奥卡姆剃刀往事篇 1](occam_razor_tale_1.md)
 
 * Scott
+* Anna Pavlov
 
 ### [Chapter 0](chapter_0.md)
 
