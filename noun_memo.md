@@ -6,6 +6,10 @@
 
 * 希帕提娅 (Hypatia)
 
+### [奥卡姆剃刀往事篇 1](occam_razor_tale_1.md)
+
+* Scott
+
 ### [Chapter 0](chapter_0.md)
 
 * M.K. / Marisa / 莎莎
@@ -15,7 +19,7 @@
 * 栗子
 * Hypatia
 * 雅戈
-* 孟德尔
+* 孟德尔/Daniel Mendel
 * 千代
 
 ### [Chapter 2](chapter_2.md)
@@ -24,6 +28,12 @@
 * 图书馆员
 
 ## 组织
+
+### [奥卡姆剃刀往事篇 1](occam_razor_tale_1.md)
+
+* Labyrinth集团研究院
+* 观察者/Observer
+* 沉默者/Silencer
 
 ### [Chapter 1](chapter_1.md)
 
@@ -42,6 +52,10 @@
 ### [奥卡姆剃刀往事篇 0](occam_razor_tale_0.md)
 
 * 学城地铁13号线 - 立水庄站
+
+### [奥卡姆剃刀往事篇 1](occam_razor_tale_1.md)
+
+* Rolling Star咖啡馆
 
 ### [Chapter 1](chapter_1.md)
 
