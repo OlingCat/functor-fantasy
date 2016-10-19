@@ -29,3 +29,4 @@
 启动时间：世界线R，倒计时4年左右。
 
 * [Chapter 0](occam_razor_tale_0.md) by [@TerrorJack](https://github.com/TerrorJack)
+* [Chapter 1](occam_razor_tale_1.md) by [@TerrorJack](https://github.com/TerrorJack)
