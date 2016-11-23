@@ -37,4 +37,4 @@
 
 启动时间与世界线待定。
 
-* [Chapter 0](oksengiu-stories-0) by [@be5invis](https://github.com/be5invis)
+* [Chapter 0](oksengiu-stories-0.md) by [@be5invis](https://github.com/be5invis)
