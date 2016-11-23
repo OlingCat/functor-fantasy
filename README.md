@@ -15,6 +15,7 @@
 ## 目录
 
 * [名词备忘录](noun_memo.md)
+* [设定集](nisewiki.md)
 
 ### 主线故事：
 
@@ -30,3 +31,10 @@
 
 * [Chapter 0](occam_razor_tale_0.md) by [@TerrorJack](https://github.com/TerrorJack)
 * [Chapter 1](occam_razor_tale_1.md) by [@TerrorJack](https://github.com/TerrorJack)
+* [Chapter 2](occam_razor_tale_2.md) by [@TerrorJack](https://github.com/TerrorJack)
+
+### 支线故事：奥千秋往事
+
+启动时间与世界线待定。
+
+* [Chapter 0](oksengiu-stories-0.md) by [@be5invis](https://github.com/be5invis)
