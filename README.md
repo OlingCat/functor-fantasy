@@ -1,4 +1,4 @@
-# 函子风云录
+# ![](https://raw.githubusercontent.com/be5invis/functor-fantasy/master/logo/logo-aff.png?token=AAOp2wtte1xE10LGuhMd0BBQOrTo9UDkks5YWS7bwA%3D%3D)
 
 ## 讨论组
 
@@ -27,6 +27,8 @@
 
 ### 支线故事：奥卡姆剃刀往事篇
 
+![](https://raw.githubusercontent.com/be5invis/functor-fantasy/master/logo/logo-aff-lp.png?token=AAOp211swmvyktayRpvgdsSmuK_FfmiPks5YWS7cwA%3D%3D)
+
 启动时间：世界线 R，倒计时 4 年左右。
 
 * [Chapter 0](occam_razor_tale_0.md) by [@TerrorJack](https://github.com/TerrorJack)
@@ -34,6 +36,8 @@
 * [Chapter 2](occam_razor_tale_2.md) by [@TerrorJack](https://github.com/TerrorJack)
 
 ### 支线故事：奥千秋往事
+
+![](https://raw.githubusercontent.com/be5invis/functor-fantasy/master/logo/logo-aff-ochsengiu.png?token=AAOp2yCEYwN42sb7TXvWaM2ckqcvXwx7ks5YWS7dwA%3D%3D)
 
 启动时间：世界线 R，1992 年。
 
