@@ -1,4 +1,4 @@
-# 函子风云录
+# ![](https://raw.githubusercontent.com/be5invis/functor-fantasy/master/logo/logo-aff.png?token=AAOp2wtte1xE10LGuhMd0BBQOrTo9UDkks5YWS7bwA%3D%3D)
 
 ## 讨论组
 
@@ -19,8 +19,6 @@
 
 ### 主线故事：
 
-![](https://raw.githubusercontent.com/be5invis/functor-fantasy/master/logo/logo-aff.png?token=AAOp26FcUtjuwUZCH_Ehz1nGIjlqDjm1ks5YWStCwA%3D%3D)
-
 启动时间：世界线 R，倒计时 24h 以内。
 
 * [Chapter 0](chapter_0.md) by [@TerrorJack](https://github.com/TerrorJack)
@@ -29,7 +27,7 @@
 
 ### 支线故事：奥卡姆剃刀往事篇
 
-![](https://raw.githubusercontent.com/be5invis/functor-fantasy/master/logo/logo-aff-lp.png?token=AAOp2077JmRCD7yd_1UKxHpqwCZgXYFJks5YWStFwA%3D%3D)
+![](https://raw.githubusercontent.com/be5invis/functor-fantasy/master/logo/logo-aff-lp.png?token=AAOp211swmvyktayRpvgdsSmuK_FfmiPks5YWS7cwA%3D%3D)
 
 启动时间：世界线 R，倒计时 4 年左右。
 
@@ -39,7 +37,7 @@
 
 ### 支线故事：奥千秋往事
 
-![](https://raw.githubusercontent.com/be5invis/functor-fantasy/master/logo/logo-aff-ochsengiu.png?token=AAOp22XAMOM4g0s66n8GI3wcLpS-035Rks5YWSu5wA%3D%3D)
+![](https://raw.githubusercontent.com/be5invis/functor-fantasy/master/logo/logo-aff-ochsengiu.png?token=AAOp2yCEYwN42sb7TXvWaM2ckqcvXwx7ks5YWS7dwA%3D%3D)
 
 启动时间：世界线 R，1992 年。
 
