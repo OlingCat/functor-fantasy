@@ -24,6 +24,9 @@
 * [Chapter 0](chapter_0.md) by [@TerrorJack](https://github.com/TerrorJack)
 * [Chapter 1](chapter_1.md) by [@tioover](https://github.com/tioover)
 * [Chapter 2](chapter_2.md) by [@MislankaNova](https://github.com/MislankaNova)
+* [Chapter 3](chapter_3.md) by [@OlingCat](https://github.com/OlingCat)
+* [Chapter 4](chapter_4.md) by [@TerrorJack](https://github.com/TerrorJack)
+* [Chapter 5](chapter_5.md) by [@TerrorJack](https://github.com/TerrorJack)
 
 ### 支线故事：奥卡姆剃刀往事篇
 
@@ -42,3 +45,4 @@
 启动时间：世界线 R，1992 年。
 
 * [Chapter 0](ochsengiu-stories-0.md) by [@be5invis](https://github.com/be5invis)
+* [Chapter 1](ochsengiu-stories-1.md) by [@be5invis](https://github.com/be5invis)
