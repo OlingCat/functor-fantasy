@@ -21,12 +21,13 @@
 
 启动时间：世界线 R，倒计时 24h 以内。
 
-* [Chapter 0](chapter_0.md) by [@TerrorJack](https://github.com/TerrorJack)
-* [Chapter 1](chapter_1.md) by [@tioover](https://github.com/tioover)
-* [Chapter 2](chapter_2.md) by [@MislankaNova](https://github.com/MislankaNova)
-* [Chapter 3](chapter_3.md) by [@OlingCat](https://github.com/OlingCat)
-* [Chapter 4](chapter_4.md) by [@TerrorJack](https://github.com/TerrorJack)
-* [Chapter 5](chapter_5.md) by [@TerrorJack](https://github.com/TerrorJack)
+- [Chapter 0](story/chapter-0.md) by [@TerrorJack](https://github.com/TerrorJack)
+- [Chapter 1](story/chapter-1.md) by [@tioover](https://github.com/tioover)
+- [Chapter 2](story/chapter-2.md) by [@MislankaNova](https://github.com/MislankaNova)
+- [Chapter 3](story/chapter-3.md) by [@OlingCat](https://github.com/OlingCat)
+- [Chapter 4](story/chapter-4.md) by [@TerrorJack](https://github.com/TerrorJack)
+- [Chapter 5](story/chapter-5.md) by [@TerrorJack](https://github.com/TerrorJack)
+- [Chapter 6](story/chapter-6.md) by [@TerrorJack](https://github.com/TerrorJack)
 
 ### 支线故事：奥卡姆剃刀往事篇
 
@@ -34,9 +35,9 @@
 
 启动时间：世界线 R，倒计时 4 年左右。
 
-* [Chapter 0](occam_razor_tale_0.md) by [@TerrorJack](https://github.com/TerrorJack)
-* [Chapter 1](occam_razor_tale_1.md) by [@TerrorJack](https://github.com/TerrorJack)
-* [Chapter 2](occam_razor_tale_2.md) by [@TerrorJack](https://github.com/TerrorJack)
+- [Chapter 0](occam-razor-tale/chapter-0.md) by [@TerrorJack](https://github.com/TerrorJack)
+- [Chapter 1](occam-razor-tale/chapter-1.md) by [@TerrorJack](https://github.com/TerrorJack)
+- [Chapter 2](occam-razor-tale/chapter-2.md) by [@TerrorJack](https://github.com/TerrorJack)
 
 ### 支线故事：奥千秋往事
 
@@ -44,5 +45,6 @@
 
 启动时间：世界线 R，1992 年。
 
-* [Chapter 0](ochsengiu-stories-0.md) by [@be5invis](https://github.com/be5invis)
-* [Chapter 1](ochsengiu-stories-1.md) by [@be5invis](https://github.com/be5invis)
+- [Chapter 0](ochsengiu-stories/chapter-0.md) by [@be5invis](https://github.com/be5invis)
+- [Chapter 1](ochsengiu-stories/chapter-1.md) by [@be5invis](https://github.com/be5invis)
+- [Chapter 2](ochsengiu-stories/chapter-2.md) by [@be5invis](https://github.com/be5invis)

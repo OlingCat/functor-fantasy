@@ -1,4 +1,6 @@
-# Chapter 6
+---
+title: Chapter 6
+---
 
 ## Weekend -32:46:40
 

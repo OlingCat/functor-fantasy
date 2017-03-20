@@ -1,4 +1,6 @@
-# Chapter 0
+---
+title: Chapter 0
+---
 
 ## 世界线R - 倒计时 08:23:00
 
