@@ -34,7 +34,3 @@ title: 目录
 - [Chapter 1](ochsengiu-stories/chapter-1.html) by [@be5invis](https://github.com/be5invis)
 - [Chapter 2](ochsengiu-stories/chapter-2.html) by [@be5invis](https://github.com/be5invis)
 
-------
-
-- [名词备忘录](wiki/noun_memo.html)
-- [设定集](wiki/index.html)
