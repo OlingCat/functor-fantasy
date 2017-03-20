@@ -14,8 +14,8 @@
 
 ## 目录
 
-* [名词备忘录](noun_memo.md)
-* [设定集](nisewiki.md)
+* [名词备忘录](wiki/noun_memo.md)
+* [设定集](wiki/index.md)
 
 ### 主线故事：
 

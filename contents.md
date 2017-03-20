@@ -1,8 +1,9 @@
 ---
 title: 目录
 ---
+## 目录
 
-![](http://7xpe0v.com1.z0.glb.clouddn.com/logo-aff.png)
+### 主案
 
 启动时间：世界线 R，倒计时 24h 以内。
 
@@ -16,7 +17,7 @@ title: 目录
 
 ---
 
-![](http://7xpe0v.com1.z0.glb.clouddn.com/logo-aff-lp.png)
+### 奥卡姆剃刀往事篇
 
 启动时间：世界线 R，倒计时 4 年左右。
 
@@ -26,7 +27,7 @@ title: 目录
 
 ---
 
-![](http://7xpe0v.com1.z0.glb.clouddn.com/logo-aff-ochsengiu.png)
+### 奥千秋往事
 
 启动时间：世界线 R，1992 年。
 
