@@ -2,8 +2,6 @@
 title: 人物设定集
 ---
 
-# 人物设定集
-
 ### M.K.
 
 | ![MK-b.png](https://ooo.0o0.ooo/2017/02/19/58a950fd6276a.png) | ![MK.png](https://ooo.0o0.ooo/2017/02/16/58a59dd5be767.png) |
