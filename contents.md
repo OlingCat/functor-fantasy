@@ -3,7 +3,7 @@ title: 目录
 ---
 ## 目录
 
-### 主案
+### 本案
 
 启动时间：世界线 R，倒计时 24h 以内。
 
@@ -34,3 +34,10 @@ title: 目录
 - [Chapter 0](ochsengiu-stories/chapter-0.html) by [@be5invis](https://github.com/be5invis)
 - [Chapter 1](ochsengiu-stories/chapter-1.html) by [@be5invis](https://github.com/be5invis)
 
+
+---
+
+### 设定集（未完成）
+
+- [设定集](plot/plot.html)
+- [人物](plot/characters.html)
