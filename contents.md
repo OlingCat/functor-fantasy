@@ -34,3 +34,9 @@ title: 目录
 - [Chapter 0](ochsengiu-stories/chapter-0.html) by [@be5invis](https://github.com/be5invis)
 - [Chapter 1](ochsengiu-stories/chapter-1.html) by [@be5invis](https://github.com/be5invis)
 
+
+---
+
+### 设定集
+
+- [人物](plot/characters.html)
