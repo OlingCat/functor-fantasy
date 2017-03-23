@@ -39,6 +39,10 @@
 - [Chapter 1](ochsengiu-stories/chapter-1.md) by [@be5invis](https://github.com/be5invis)
 - [Chapter 2](ochsengiu-stories/chapter-2.md) by [@be5invis](https://github.com/be5invis)
 
+### 支线故事：图书馆往事
+
+启动时间：世界线 R，1840 年。
+
 ------
 
 * [名词备忘录](wiki/noun_memo.md)
