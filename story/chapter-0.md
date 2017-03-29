@@ -2,7 +2,7 @@
 title: Chapter 0
 ---
 
-![cover-story-ch1.png](https://ooo.0o0.ooo/2017/03/28/58d9e9b4a2a8c.png)
+![cover-story-ch1.png](https://ooo.0o0.ooo/2017/03/29/58db80c9845fc.png)
 
 
 ## 世界线 R - 倒计时 08:23:00
