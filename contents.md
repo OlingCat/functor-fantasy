@@ -42,3 +42,4 @@ title: 目录
 
 - [设定集](plot/plot.html)
 - [人物](plot/characters.html)
+- [物体、术式和文献](plot/things.html)
