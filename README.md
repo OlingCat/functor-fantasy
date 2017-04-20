@@ -48,3 +48,4 @@
 * [名词备忘录](wiki/noun_memo.md)
 * [设定集](plot/plot.md)
 * [人物集](plot/characters.md)
+* [物体、术式和文献](plot/things.md)
