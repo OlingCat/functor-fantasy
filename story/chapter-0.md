@@ -1,8 +1,10 @@
 ---
 title: Chapter 0
+cover: "https://ooo.0o0.ooo/2017/04/24/58fcf7cbbc64d.png"
+coverStyle: "wide"
 ---
 
-![cover-story-ch1.png](https://ooo.0o0.ooo/2017/03/29/58db80c9845fc.png)
+<img class="cover" src="https://ooo.0o0.ooo/2017/03/29/58db80c9845fc.png" />
 
 
 ## 世界线 R - 倒计时 08:23:00
