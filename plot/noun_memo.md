@@ -26,7 +26,7 @@
 ### [Chapter 2](chapter_2.md)
 
 * 司空
-* E 先生
+* Evans 先生
 
 ### [Chapter 3](chapter_3.md)
 
@@ -79,7 +79,7 @@
 ### [Chapter 3](chapter_3.md)
 
 * 七曜路学城西郊历史档案与图书馆
-* 城南图书馆（E先生被害地）
+* 城南图书馆（Evans 先生被害地）
 
 ## 概念
 
